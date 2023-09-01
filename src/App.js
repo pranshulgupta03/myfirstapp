@@ -1,7 +1,7 @@
 
 import './App.css';
 import React from 'react';
-import AComponent from './AComponent';
+// import AComponent from './AComponent';
 // import ReverseProps from './ReverseProps';
 // import NavBar from './NavBar';
 // import HomeCarsouel from './HomeCarsouel';
@@ -47,8 +47,12 @@ function App() {
     //   <ReverseProps/>
     // </div>
 
+    // <div>
+    //     <AComponent />
+    // </div>
+
     <div>
-      <AComponent />
+      
     </div>
   )
 }
